@@ -1,8 +1,6 @@
 ![blake runyon logo header](https://raw.githubusercontent.com/blakerunyon09/blakerunyon09/main/Welcome!-2.png)
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
 <!--
 **blakerunyon09/blakerunyon09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
