@@ -40,18 +40,17 @@ export default function Resume() {
 
 ```
 
+## Blogs
 
-<!--
-**blakerunyon09/blakerunyon09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also like to write blogs. Here are some recent ones.
 
-Here are some ideas to get you started:
+[What is Math? (For Rubyists)](https://blakerunyon.medium.com/what-is-math-for-rubyists-acc6922b271c)
+[Create a Knexjs App in 5 Minutes](https://blakerunyon.medium.com/create-a-knexjs-app-in-5-minutes-122283429a25)
+[Semantic HTML & Why?](https://blakerunyon.medium.com/semantic-html-why-61e1459afbd)
+[How to write Knex Queries](https://blakerunyon.medium.com/how-to-write-knex-queries-c70ac80f14e1)
+[Tailwind - Core Concepts](https://blakerunyon.medium.com/tailwind-core-concepts-74d785fd1c74)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+
+> Email: (blakerunyon09@gmail.com)
+> Linkedin: (https://www.linkedin.com/in/blakerunyon/)
