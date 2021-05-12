@@ -19,15 +19,16 @@ export default function Resume() {
   return (
     <main>
       <section>
-        GiantBox - An app that pulls in a companies APIs and creates analytics dashboards.
-        Tech: PERN + Tailwind, Material UI, Knex/Objection, Heroku, Netlify
-        Deployed: giantbox.io
-        GitHub: https://github.com/blakerunyon09 (Pinned Project: Capstone)
+        <h1>GiantBox - An app that pulls in a companies APIs and creates analytics dashboards.</h1>
+        <p>Tech: PERN + Tailwind, Material UI, Knex/Objection, Heroku, Netlify</p>
+        <p>Deployed: giantbox.io</p>
+        <p>GitHub: https://github.com/blakerunyon09 (Pinned Project: Capstone)</p>
       </section>
       <section>
-        Survivor Fantasy IslandA fantasy football style take on the reality tv show Survivor.
-        Tech: PERN + Tailwind, Knex, Heroku, NetlifyDeployed: survivorfantasyisland.com
-        GitHub: https://github.com/blakerunyon09 (Pinned Project: Capstone)
+        <h1>Survivor Fantasy IslandA fantasy football style take on the reality tv show Survivor.</h1>
+        <p>Tech: PERN + Tailwind, Knex, Heroku, Netlify</p>
+        <p>Deployed: survivorfantasyisland.com</p>
+        <p>GitHub: https://github.com/blakerunyon09 (Pinned Project: Capstone)</p>
       </section>
     </main>
   )
