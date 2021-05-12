@@ -1,8 +1,8 @@
 ![blake runyon logo header](https://raw.githubusercontent.com/blakerunyon09/blakerunyon09/main/Welcome!-2.png)
 
-# Hello, I'm Blake! 
+# Hello 👋 
 
-I'm a full stack developer. I spent the first 6 years of my career in product & marketing at Abercrombie, Hollister, and Crocs. Now I'd like to build the prodcuts I used to analyze. I love programming that focuses on the customer and future developers. I always strive to write code that is readable, defensive, and accessible. In my free time I enjoy skiing, volunteering for Big Brother, and renovating my house.
+I'm Blake, a full stack developer. I spent the first 6 years of my career in product & marketing at Abercrombie, Hollister, and Crocs. Now I'd like to build the prodcuts I used to analyze. I love programming that focuses on the customer and future developers. I always strive to write code that is readable, defensive, and accessible. In my free time I enjoy skiing, volunteering for Big Brother, and renovating my house.
 
 I hope you enjoy checking out my work!
 
