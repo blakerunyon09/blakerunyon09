@@ -43,7 +43,7 @@ export default function Resume() {
 ## Deployed Sites
 Here are some projects I've deployed.
 
-> [Survivor Fantasy Island](http://www.survivorfantasyisland.com)
+> [Survivor Fantasy Island](http://www.survivorfantasyisland.com)  
 > [GiantBox](http://www.giantbox.io)
 
 ## Blogs
