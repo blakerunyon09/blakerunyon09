@@ -5,26 +5,30 @@
 
 I'm Blake, a software engineer.
 
-I have an interest in several areas of programming: web, ML/AI, and video games.
+I have an interest in several areas of programming: web, ML/AI, and games.
 
-I currently work for **Paper as an SE** on a mix of Vue, React, Unity, ML, and Node. It's an awesome mix of projects :D
+I work for Paper as an SE on a mix of *Vue, React, Unity, ML, and Node*. It's an awesome mix of projects. 🤓
 
-Also I'm working on my **Master of CS from Georgia Tech** in Interactive AI.
+## Always trying to learn:
 
-**Previous Courses:** AI, **Current Courses:** Game AI & Game Design.
+I'm working on my Master of CS from Georgia Tech in *Interactive AI*.
 
-At the moment, I'm particulary interested in **Reinforcement Learning**, and relearning linear algebra.
+At the moment, I'm particularly interested in *Reinforcement Learning*, and relearning linear algebra.
 
-Besides programming, I lift weights, have over 50 platinum trophies, ski, restore my home, and love being outdoors in sunny Colorado.
+Besides programming; I lift weights, run, ski, restore my home, have [53 Playstation platinums]([url](https://psnprofiles.com/Gilbert_Sanchez)), and love being outdoors in sunny Colorado.
 
-Recent projects I'm proud of:
+## Recent projects I'm proud of:
 
-1. Frontend: Developed MicroFrontend Pattern, adopted by entire Frontend team, and used on 14 seperate projects.
+1. Frontend: Developed MicroFrontend Pattern, adopted by entire Frontend team, and used on 14 separate projects.
 2. Frontend: Created an interface for mounting, communicating with, and rendering Unity to a web browser.
-3. AI Projects: American Sign Langauge classifier using dynamic time warping, image compression algorithm
-4. Games: Hotdog Rocket :D
-5. Backend: Transitioned my squad from Laravel to Node & Strapi
-   
+3. Frontend: Pushed initial implementation of Vue 3, TypeScript, and GraphQL for teams.
+5. AI/ML: American Sign Language classifier using dynamic time warping
+6. AI/ML: Image compression algorithm using K-Means & EM Algorithms
+7. AI/ML: Used Bayesian Knowledge Tracing to predict student proficiency 
+8. Games: [Hotdog Rocket, just a little hotdog, trying to get home]([url](https://www.youtube.com/@blakerunyon09/videos))
+9. Games: [Contributor to Figure Math, interactive drag and drop algebra playground]([url](https://www.youtube.com/watch?v=66OsJmodb3M))
+10. Backend: Transitioned my team from Laravel to Node, Strapi, Nexus, and GraphQL
+
 ## Contact Me
 
 > Email: (blakerunyon09@gmail.com)  
