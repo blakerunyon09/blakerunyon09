@@ -25,8 +25,8 @@ Besides programming; I lift weights, run, ski, restore my home, have [53 Playsta
 5. AI/ML: American Sign Language classifier using dynamic time warping
 6. AI/ML: Image compression algorithm using K-Means & EM Algorithms
 7. AI/ML: Used Bayesian Knowledge Tracing to predict student proficiency 
-8. Games: ([Hotdog Rocket, just a little hotdog, trying to get home](https://www.youtube.com/@blakerunyon09/videos))
-9. Games: ([Contributor to Figure Math, interactive drag and drop algebra playground](https://www.youtube.com/watch?v=66OsJmodb3M))
+8. Games: [Hotdog Rocket, just a little hotdog, trying to get home](https://www.youtube.com/@blakerunyon09/videos)
+9. Games: [Contributor to Figure Math, interactive drag and drop algebra playground](https://www.youtube.com/watch?v=66OsJmodb3M)
 10. Backend: Transitioned my team from Laravel to Node, Strapi, Nexus, and GraphQL
 
 ## Contact Me
