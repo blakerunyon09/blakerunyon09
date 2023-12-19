@@ -5,9 +5,9 @@
 
 I'm Blake, a software engineer.
 
-I have an interest in several areas of programming: web, ML/AI, and games.
+I have an interest in several areas of programming: web, Machine Learning / Artificial Intelligence, and games.
 
-I work for Paper as an SE on a mix of *Vue, React, Unity, ML, and Node*. It's an awesome mix of projects. 🤓
+I work for Paper as an SE on a mix of *Vue, React, Unity, Machine Learning, and Node*. It's an awesome mix of projects. 🤓
 
 ## Always trying to learn:
 
@@ -16,6 +16,11 @@ I'm working on my Master of CS from Georgia Tech in *Interactive AI*.
 At the moment, I'm particularly interested in *Reinforcement Learning*, and relearning linear algebra.
 
 Besides programming; I lift weights, run, ski, restore my home, have [53 Playstation platinums]([url](https://psnprofiles.com/Gilbert_Sanchez)), and love being outdoors in sunny Colorado.
+
+## Contact Me
+
+> Email: (blakerunyon09@gmail.com)  
+> Linkedin: (https://www.linkedin.com/in/blakerunyon/)
 
 ## Recent projects I'm proud of:
 
@@ -28,9 +33,4 @@ Besides programming; I lift weights, run, ski, restore my home, have [53 Playsta
 8. Games: [Hotdog Rocket, just a little hotdog, trying to get home](https://www.youtube.com/@blakerunyon09/videos)
 9. Games: [Contributor to Figure Math, interactive drag and drop algebra playground](https://www.youtube.com/watch?v=66OsJmodb3M)
 10. Backend: Transitioned my team from Laravel to Node, Strapi, Nexus, and GraphQL
-
-## Contact Me
-
-> Email: (blakerunyon09@gmail.com)  
-> Linkedin: (https://www.linkedin.com/in/blakerunyon/)
 
