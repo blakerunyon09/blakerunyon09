@@ -5,17 +5,17 @@
 
 I'm Blake, a software engineer.
 
-I have an interest in several areas of programming: web, Machine Learning / Artificial Intelligence, and games.
+I have an interest in several areas of programming: Web Development, Machine Learning / Artificial Intelligence, and Games.
 
-I work for Paper as an SE on a mix of *Vue, React, Unity, Machine Learning, and Node*. It's an awesome mix of projects. 🤓
+I work for Paper on a mix of *Vue, React, Unity, Machine Learning, and Node*.
 
 ## Always trying to learn:
 
-I'm working on my Master of CS from Georgia Tech in *Interactive AI*.
+I'm working on my Master of CS from Georgia Tech in *Interactive AI*. This is AI which is used by humans.
 
 At the moment, I'm particularly interested in *Reinforcement Learning*, and relearning linear algebra.
 
-Besides programming; I lift weights, run, ski, restore my home, have [53 Playstation platinums]([url](https://psnprofiles.com/Gilbert_Sanchez)), and love being outdoors in sunny Colorado.
+Besides programming; I lift weights, run, ski, restore my home, have [55 Playstation platinums]([url](https://psnprofiles.com/Gilbert_Sanchez)), and love being outdoors in sunny Colorado.
 
 ## Contact Me
 
