@@ -11,11 +11,11 @@ I work for Paper on a mix of *Vue, React, Unity, Machine Learning, and Node*.
 
 ## Always trying to learn:
 
-I'm working on my Master of CS from Georgia Tech in *Interactive AI*. This is AI which is used by humans.
+I have a Masters in AI from Georgia Tech.
 
-At the moment, I'm particularly interested in *Reinforcement Learning*, and relearning linear algebra.
+At the moment, I'm particularly interested in *Knowledge Based AI*, basically the cross roads of cognitive science and AI.
 
-Besides programming; I lift weights, run, ski, restore my home, have [55 Playstation platinums]([url](https://psnprofiles.com/Gilbert_Sanchez)), and love being outdoors in sunny Colorado.
+Besides programming; I lift weights, run, ski, restore my home, have [58 Playstation platinums]([url](https://psnprofiles.com/Gilbert_Sanchez)), and love being outdoors in sunny Colorado.
 
 ## Contact Me
 
