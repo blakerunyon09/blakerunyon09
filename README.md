@@ -56,12 +56,12 @@ Areas I'm actively working on:
 - Worked across frontend/backend boundaries to support scalable product development
 
 ### Games / Interactive
-- :contentReference[oaicite:0]{index=0} — a tiny hotdog trying to find its way home
-- :contentReference[oaicite:1]{index=1} — interactive drag-and-drop algebra playground
+- [Hotdog Rocket](https://www.youtube.com/@blakerunyon09/videos) — a tiny hotdog trying to find its way home
+- [Figure Math contributor demo](https://www.youtube.com/watch?v=66OsJmodb3M) — interactive drag-and-drop algebra playground
 
 ---
 
 ## Contact
 
 - Email: blakerunyon09@gmail.com
-- LinkedIn: :contentReference[oaicite:2]{index=2}
+- [LinkedIn](https://www.linkedin.com/in/blakerunyon/)
