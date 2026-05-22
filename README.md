@@ -1,36 +1,77 @@
-
 ![blake runyon logo header](https://raw.githubusercontent.com/blakerunyon09/blakerunyon09/main/GithubImageThree.png)
 
-# Hello 👋 
+# Hey, I'm Blake 👋
 
-I'm Blake, a software engineer.
+I'm a frontend-focused product engineer based in Colorado.
 
-I have an interest in several areas of programming: Web Development, Machine Learning / Artificial Intelligence, and Games.
+I specialize in building polished customer-facing applications with React, Vue, TypeScript, and AI-powered product experiences. Over the past decade I've worked across frontend architecture, realtime systems, APIs, machine learning integrations, and interactive applications.
 
-I work for Paper on a mix of *Vue, React, Unity, Machine Learning, and Node*.
+Currently, I'm focused on the intersection of:
+- AI-assisted software
+- endurance coaching technology
+- developer experience
+- product-focused engineering
 
-## Always trying to learn:
+---
 
-I have a Masters in AI from Georgia Tech.
+## Current Focus
 
-At the moment, I'm particularly interested in *Knowledge Based AI*, basically the cross roads of cognitive science and AI.
+### 🧠 Flexpace
+Building an AI-powered endurance coaching platform that dynamically adapts training plans using LLMs, structured planning systems, and athlete feedback loops.
 
-Besides programming; I lift weights, run, ski, restore my home, have [58 Playstation platinums]([url](https://psnprofiles.com/Gilbert_Sanchez)), and love being outdoors in sunny Colorado.
+Areas I'm actively working on:
+- AI orchestration + planning systems
+- structured LLM outputs
+- React/Vue product architecture
+- training intelligence + adaptive systems
+- frontend UX for AI products
 
-## Contact Me
+---
 
-> Email: (blakerunyon09@gmail.com)  
-> Linkedin: (https://www.linkedin.com/in/blakerunyon/)
+## Background
 
-## Recent projects I'm proud of:
+- M.S. in Artificial Intelligence — Georgia Tech
+- 10+ years building web products
+- Frontend-focused full stack engineer
+- Strong interest in cognitive science, Knowledge Based AI, and human-centered AI systems
 
-1. Frontend: Developed MicroFrontend Pattern, adopted by entire Frontend team, and used on 14 separate projects.
-2. Frontend: Created an interface for mounting, communicating with, and rendering Unity to a web browser.
-3. Frontend: Pushed initial implementation of Vue 3, TypeScript, and GraphQL for teams.
-5. AI/ML: American Sign Language classifier using dynamic time warping
-6. AI/ML: Image compression algorithm using K-Means & EM Algorithms
-7. AI/ML: Used Bayesian Knowledge Tracing to predict student proficiency 
-8. Games: [Hotdog Rocket, just a little hotdog, trying to get home](https://www.youtube.com/@blakerunyon09/videos)
-9. Games: [Contributor to Figure Math, interactive drag and drop algebra playground](https://www.youtube.com/watch?v=66OsJmodb3M)
-10. Backend: Transitioned my team from Laravel to Node, Strapi, Nexus, and GraphQL
+---
 
+## Selected Projects
+
+### Frontend / Product Engineering
+- Designed and introduced a MicroFrontend architecture adopted across 14+ projects
+- Built a browser-based Unity integration layer for interactive educational experiences
+- Helped drive adoption of Vue 3, TypeScript, and GraphQL across teams
+- Built large-scale educational tooling used by students and tutors
+
+### AI / Machine Learning
+- American Sign Language classifier using Dynamic Time Warping
+- Student proficiency prediction using Bayesian Knowledge Tracing
+- Image compression experiments using K-Means and EM algorithms
+- AI-powered training and planning systems for endurance athletes
+
+### Games / Interactive
+- :contentReference[oaicite:0]{index=0} — a tiny hotdog trying to find its way home
+- :contentReference[oaicite:1]{index=1} — interactive drag-and-drop algebra playground
+
+---
+
+## Outside of Tech
+
+When I'm not programming, I'm usually:
+- training for Ironman 70.3 races
+- lifting
+- skiing
+- restoring my home
+- outdoors somewhere in Colorado
+
+Also:
+- 58 PlayStation Platinum trophies 😄
+
+---
+
+## Contact
+
+- Email: blakerunyon09@gmail.com
+- LinkedIn: :contentReference[oaicite:2]{index=2}
