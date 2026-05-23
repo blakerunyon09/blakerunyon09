@@ -1,4 +1,4 @@
-![blake runyon logo header](https://raw.githubusercontent.com/blakerunyon09/blakerunyon09/main/GithubImageThree.png)
+<img width="1846" height="852" alt="GithubImageFour" src="https://github.com/user-attachments/assets/6f46c950-657e-4b4a-8fad-f18c1fc68b26" />
 
 # Hey, I'm Blake 👋
 
